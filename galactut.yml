@@ -1,0 +1,16 @@
+name: galactut
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy<2
+  - scipy
+  - pandas
+  - matplotlib
+  - astropy
+  - astroquery
+  - gala
+  - jupyterlab
+  - ipython
+  - pip
